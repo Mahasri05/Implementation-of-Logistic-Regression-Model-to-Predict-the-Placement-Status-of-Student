@@ -127,7 +127,7 @@ from sklearn.metrics import confusion_matrix
 confusion=confusion_matrix(y_test,y_pred)
 print(confusion)
 ```
-array(![Screenshot 2024-11-15 180357]),(https://github.com/user-attachments/assets/e6a4d970-92b9-4733-9d70-c92144c7b14c), dtype=int64
+![image](https://github.com/user-attachments/assets/d66f0943-1b92-4d6a-82cb-9c5fc28d676a)
 
 
 CLASSIFICATION REPORT:
